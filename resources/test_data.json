@@ -1,0 +1,14 @@
+{
+  "first_name": "Zhandos",
+  "last_name": "Zhalgassov",
+  "email": "zhandos.zhalgasov.98@gmail.com",
+  "mobile_phone" : "7752687592",
+  "birth_date": {
+    "day": "03",
+    "month": "October",
+    "year": "1998"
+  },
+  "subjects": ["Math", "Science", "English"],
+  "current_address": "Aiteke bi 83",
+  "file_path": "resources/test_png.png"
+}
